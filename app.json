@@ -1,0 +1,30 @@
+{
+    "name": "X-THON",
+    "description": "BY BEN OUF WITHOUT MAFIA THE DOG",
+    "logo" : "https://telegra.ph/file/7ece61e08ac8b43c55fa6.jpg",
+    "stack": "container",
+    "repository": "https://github.com/I6I6I/usermebot",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/I6I6I/usermebot",
+    "env": {
+        "APP_ID": {
+            "description": "ايبي ايدي",
+            "value": "",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "ايبي هاش",
+            "value": "",
+            "required": true
+        },
+        "TERMUX": {
+            "description": "كود تيرمكس",
+            "value": "",
+            "required": true
+        }
+    }
+}
